@@ -5,20 +5,20 @@
 const tasks = [
     {
         id: 1,
-        title: "Enviar informe mensual",
-        description: "Revisar las métricas de abril y enviar el documento PDF al equipo de finanzas.",
-        status: "completada"
+        title: "COMPRAR PAN",
+        description: "DEBE COMPRAR PAN PARA REGALAR.",
+        status: "PENDIENTE"
     },
     {
         id: 2,
-        title: "Hacer la compra semanal",
-        description: "Comprar frutas, verduras, leche y café. No olvidar las bolsas reutilizables.",
+        title: "COMPRAR JABON",
+        description: "LAVAR ROPA EN LA TARDE.",
         status: "pendiente"
     },
     {
         id: 3,
-        title: "Llamar al dentista",
-        description: "Pedir cita para la revisión anual. Preferiblemente para un martes por la tarde.",
+        title: "COMER 3 VECES AL DIA",
+        description: "COMER A LAS HORAD CORRECTAS.",
         status: "pendiente"
     },
     {
