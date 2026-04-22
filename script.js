@@ -29,9 +29,9 @@ const tasks = [
     },
     {
         id: 5,
-        title: "Actualizar currículum",
-        description: "Añadir la última certificación de Diseño de Interfaces y revisar los datos de contacto.",
-        status: "pendiente"
+        title: "TERMINAR EL CODIGO",
+        description: "AÑADIR LOS ULTIMAS CORRECCIONES AL CODIGO.",
+        status: "CUMPPLIDO"
     }
 ];
 

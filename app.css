@@ -1,16 +1,16 @@
 :root {
     --bg-dark: #010101;
     --bg-card: #09090b;
-    --bg-navbar: #010101;
-    --text-primary: #ffffff;
-    --text-secondary: #a1a1aa;
+    --bg-navbar: #3c1b1b;
+    --text-primary: #dbc3c3;
+    --text-secondary: #9797d3;
     --accent: #10b981;
-    --accent-glow: rgba(16, 185, 129, 0.15);
+    --accent-glow: rgba(143, 172, 163, 0.15);
     --success: #10b981;
     --success-bg: rgba(16, 185, 129, 0.1);
-    --pending: #f59e0b;
+    --pending: #ccbb9e;
     --pending-bg: rgba(245, 158, 11, 0.1);
-    --border: #27272a;
+    --border: #7f7fc7;
 }
 
 * {
